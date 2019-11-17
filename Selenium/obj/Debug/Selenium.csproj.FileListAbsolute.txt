@@ -1,0 +1,13 @@
+/Users/joyce/Projects/Selenium/Selenium/bin/Debug/Selenium.exe
+/Users/joyce/Projects/Selenium/Selenium/bin/Debug/Selenium.pdb
+/Users/joyce/Projects/Selenium/Selenium/bin/Debug/nunit.framework.dll
+/Users/joyce/Projects/Selenium/Selenium/bin/Debug/WebDriver.dll
+/Users/joyce/Projects/Selenium/Selenium/bin/Debug/WebDriver.Support.dll
+/Users/joyce/Projects/Selenium/Selenium/bin/Debug/WebDriver.xml
+/Users/joyce/Projects/Selenium/Selenium/bin/Debug/WebDriver.Support.xml
+/Users/joyce/Projects/Selenium/Selenium/bin/Debug/nunit.framework.pdb
+/Users/joyce/Projects/Selenium/Selenium/bin/Debug/nunit.framework.xml
+/Users/joyce/Projects/Selenium/Selenium/obj/Debug/Selenium.csprojAssemblyReference.cache
+/Users/joyce/Projects/Selenium/Selenium/obj/Debug/Selenium.csproj.CopyComplete
+/Users/joyce/Projects/Selenium/Selenium/obj/Debug/Selenium.exe
+/Users/joyce/Projects/Selenium/Selenium/obj/Debug/Selenium.pdb
